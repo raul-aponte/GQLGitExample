@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">GQLGitExample</string>
+    <string name="user">User</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="loading">Loading…</string>
+    <string name="error_login_wrong_data">Invalid mail or password</string>
+    <string name="error_sign_in_repeated_mail">This email has already been registered</string>
+    <string name="error_internet_connection">Network connection error</string>
+    <string name="user_data_repos"><![CDATA[User data & repos]]></string>
+</resources>

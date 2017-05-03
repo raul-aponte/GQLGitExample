@@ -1,0 +1,14 @@
+query ViewerInfo {
+  viewer {
+    id
+    login
+    name
+    repositories(first: 5) {
+      nodes {
+        name
+        path
+        description
+      }
+    }
+  }
+}

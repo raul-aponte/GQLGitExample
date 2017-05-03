@@ -1,0 +1,4 @@
+ext {
+    apiBaseUrlDevelop = '"http//example.api.url.develop"'
+    apiAccessToken = '"TOKEN"'
+}
